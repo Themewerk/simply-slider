@@ -8,7 +8,7 @@
  * Version: 1.0
  * License: GPLv2 
  */
- add_action('init','simplyslider_slides');
+add_action('init','simplyslider_slides');
 function simplyslider_slides(){
   wp_enqueue_style( 'simplyslider_styles', plugins_url('/css/simplyslider.css', __FILE__), array(), '1.0.0', 'all' );
   wp_enqueue_script( 'simplyslider_easing', plugins_url('/js/jquery.easing.1.3.js', __FILE__), array('jquery'), '1.0.0', true );
