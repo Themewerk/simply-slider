@@ -3,7 +3,7 @@ Contributors: Themewerk
 Donate link: http://simplyslider.com
 Tags:image,images,photo,photos,picture,pictures,slideshow,themewerk
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2
 
